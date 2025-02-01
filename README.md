@@ -1,46 +1,83 @@
 # Solar System Explorer
 
-An interactive Python application for exploring the planets in our Solar System. This application provides detailed astronomical data about each planet and allows you to view them in NASA's 3D viewer.
+An interactive Python application to explore and learn about the planets in our Solar System. This tool provides in-depth astronomical data for each planet, coupled with a 3D visualization powered by NASA's Eyes on the Solar System platform.
 
 ## Features
 
-- Detailed astronomical data for all planets in the Solar System
-- Interactive command-line interface with rich formatting
-- NASA 3D viewer integration for visual exploration
-- Comprehensive planetary information including:
+- **Detailed Planetary Data**: Explore comprehensive information on each planet, including:
   - Physical characteristics (mass, diameter, gravity)
   - Orbital properties (rotation period, orbital period)
   - Atmospheric composition
   - Surface features
-  - Interesting facts
-  - And much more!
+  - Interesting facts and trivia
+
+- **Interactive Command-Line Interface (CLI)**: Richly formatted interface for easy navigation and exploration.
+
+- **3D Visualization**: Integration with NASA’s Eyes on the Solar System for immersive 3D exploration of the planets.
 
 ## Installation
 
-1. Clone this repository
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
+To get started with the Solar System Explorer, follow the steps below:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/solar-system-explorer.git
+cd solar-system-explorer
+```
+
+### 2. Install Dependencies
+
+Install the necessary Python packages using `pip`:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 
-Run the application using:
+### Running the Application
+
+Start the interactive application with the following command:
+
 ```bash
 python main.py
 ```
 
-Follow the interactive prompts to:
-1. Select a planet to explore
-2. Choose between viewing detailed information or exploring the 3D model
-3. Navigate through the solar system!
+### Interactive Exploration
+
+Once the application is running, you can:
+
+1. **Select a planet**: Choose from a list of planets in our Solar System.
+2. **View Detailed Information**: Get information about the selected planet’s physical, orbital, and atmospheric characteristics.
+3. **Explore the 3D Model**: Launch NASA's 3D viewer to explore the planet interactively.
 
 ## Data Sources
 
-The planetary data is sourced from NASA and other reliable astronomical databases. The 3D viewer integration uses NASA's Eyes on the Solar System platform.
+- **Planetary Data**: Sourced from NASA and other trusted astronomical databases.
+- **3D Viewer**: Powered by [NASA's Eyes on the Solar System](https://eyes.nasa.gov/).
 
 ## Requirements
 
-- Python 3.7+
-- Internet connection (for NASA 3D viewer)
-- Modern web browser
+- **Python**: Version 3.7 or higher
+- **Web Browser**: A modern web browser for the 3D viewer (e.g., Chrome, Firefox, Edge)
+- **Internet**: Required for accessing the 3D viewer and fetching live data from NASA.
+
+## Contributing
+
+We welcome contributions to improve the Solar System Explorer! To contribute:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Commit your changes (`git commit -am 'Add new feature'`)
+4. Push to the branch (`git push origin feature-branch`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- NASA's [Eyes on the Solar System](https://eyes.nasa.gov/) for providing the 3D visualization.
+- The scientific data sources used in this project are publicly available from NASA and other authoritative astronomical organizations.
