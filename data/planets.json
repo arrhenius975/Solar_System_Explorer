@@ -1,0 +1,178 @@
+{
+    "Mercury": {
+        "type": "Terrestrial planet",
+        "diameter": 4879,
+        "mass": "3.285 × 10^23 kg",
+        "gravity": "3.7 m/s²",
+        "escape_velocity": "4.3 km/s",
+        "rotation_period": "58.646 Earth days",
+        "orbital_period": "88 Earth days",
+        "average_temperature": "167°C",
+        "distance_from_sun": "57.9 million km",
+        "number_of_moons": 0,
+        "atmosphere": "Extremely thin - sodium, potassium",
+        "magnetic_field": "Weak - 1% of Earth's",
+        "surface_features": "Heavily cratered, similar to Moon",
+        "interesting_facts": [
+            "Smallest planet in the Solar System",
+            "Most cratered planet",
+            "Extreme temperature variations",
+            "No moons or rings"
+        ],
+        "nasa_3d_url": "https://eyes.nasa.gov/apps/solar-system/#/mercury"
+    },
+    "Venus": {
+        "type": "Terrestrial planet",
+        "diameter": 12104,
+        "mass": "4.867 × 10^24 kg",
+        "gravity": "8.87 m/s²",
+        "escape_velocity": "10.36 km/s",
+        "rotation_period": "243 Earth days (retrograde)",
+        "orbital_period": "225 Earth days",
+        "average_temperature": "462°C",
+        "distance_from_sun": "108.2 million km",
+        "number_of_moons": 0,
+        "atmosphere": "Very thick - 96% carbon dioxide",
+        "magnetic_field": "Weak - induced by solar wind",
+        "surface_features": "Volcanic plains, mountains, valleys",
+        "interesting_facts": [
+            "Hottest planet in the Solar System",
+            "Rotates backwards compared to most planets",
+            "Often called Earth's twin due to similar size",
+            "Longest day of any planet"
+        ],
+        "nasa_3d_url": "https://eyes.nasa.gov/apps/solar-system/#/venus"
+    },
+    "Earth": {
+        "type": "Terrestrial planet",
+        "diameter": 12742,
+        "mass": "5.972 × 10^24 kg",
+        "gravity": "9.81 m/s²",
+        "escape_velocity": "11.186 km/s",
+        "rotation_period": "23.934 hours",
+        "orbital_period": "365.26 days",
+        "average_temperature": "15°C",
+        "distance_from_sun": "149.6 million km",
+        "number_of_moons": 1,
+        "atmosphere": "78% nitrogen, 21% oxygen",
+        "magnetic_field": "Strong dipole field",
+        "surface_features": "Oceans, continents, mountains, ice caps",
+        "interesting_facts": [
+            "Only known planet with life",
+            "Only planet with liquid water on surface",
+            "Has one natural satellite - the Moon",
+            "Only planet not named after a god/goddess"
+        ],
+        "nasa_3d_url": "https://eyes.nasa.gov/apps/solar-system/#/earth"
+    },
+    "Mars": {
+        "type": "Terrestrial planet",
+        "diameter": 6779,
+        "mass": "6.39 × 10^23 kg",
+        "gravity": "3.71 m/s²",
+        "escape_velocity": "5.03 km/s",
+        "rotation_period": "24.623 hours",
+        "orbital_period": "687 Earth days",
+        "average_temperature": "-63°C",
+        "distance_from_sun": "227.9 million km",
+        "number_of_moons": 2,
+        "atmosphere": "Thin - 95% carbon dioxide",
+        "magnetic_field": "Weak - localized",
+        "surface_features": "Volcanoes, valleys, polar ice caps",
+        "interesting_facts": [
+            "Home to largest volcano in Solar System - Olympus Mons",
+            "Has two small moons - Phobos and Deimos",
+            "Called the Red Planet due to iron oxide (rust)",
+            "Has the largest dust storms in the Solar System"
+        ],
+        "nasa_3d_url": "https://eyes.nasa.gov/apps/solar-system/#/mars"
+    },
+    "Jupiter": {
+        "type": "Gas giant",
+        "diameter": 139820,
+        "mass": "1.898 × 10^27 kg",
+        "gravity": "24.79 m/s²",
+        "escape_velocity": "59.5 km/s",
+        "rotation_period": "9.93 hours",
+        "orbital_period": "11.86 Earth years",
+        "average_temperature": "-110°C",
+        "distance_from_sun": "778.5 million km",
+        "number_of_moons": 79,
+        "atmosphere": "90% hydrogen, 10% helium",
+        "magnetic_field": "Strongest of all planets",
+        "surface_features": "Great Red Spot, bands of clouds",
+        "interesting_facts": [
+            "Largest planet in the Solar System",
+            "Has the Great Red Spot - a storm lasting over 400 years",
+            "Has a faint ring system",
+            "Could float in water (if there was a big enough ocean)"
+        ],
+        "nasa_3d_url": "https://eyes.nasa.gov/apps/solar-system/#/jupiter"
+    },
+    "Saturn": {
+        "type": "Gas giant",
+        "diameter": 116460,
+        "mass": "5.683 × 10^26 kg",
+        "gravity": "10.44 m/s²",
+        "escape_velocity": "35.5 km/s",
+        "rotation_period": "10.7 hours",
+        "orbital_period": "29.46 Earth years",
+        "average_temperature": "-140°C",
+        "distance_from_sun": "1.434 billion km",
+        "number_of_moons": 82,
+        "atmosphere": "96% hydrogen, 3% helium",
+        "magnetic_field": "Strong - weaker than Jupiter",
+        "surface_features": "Prominent ring system",
+        "interesting_facts": [
+            "Most extensive ring system of any planet",
+            "Has more moons than any other planet",
+            "Would float in water (if there was a big enough ocean)",
+            "Least dense planet in the Solar System"
+        ],
+        "nasa_3d_url": "https://eyes.nasa.gov/apps/solar-system/#/saturn"
+    },
+    "Uranus": {
+        "type": "Ice giant",
+        "diameter": 50724,
+        "mass": "8.681 × 10^25 kg",
+        "gravity": "8.69 m/s²",
+        "escape_velocity": "21.3 km/s",
+        "rotation_period": "17.24 hours (retrograde)",
+        "orbital_period": "84 Earth years",
+        "average_temperature": "-195°C",
+        "distance_from_sun": "2.871 billion km",
+        "number_of_moons": 27,
+        "atmosphere": "83% hydrogen, 15% helium, 2% methane",
+        "magnetic_field": "Tilted 59° from rotation axis",
+        "surface_features": "Blue-green color, faint rings",
+        "interesting_facts": [
+            "Rotates on its side",
+            "First planet discovered with telescope",
+            "Coldest planetary atmosphere",
+            "Has a set of thin, dark rings"
+        ],
+        "nasa_3d_url": "https://eyes.nasa.gov/apps/solar-system/#/uranus"
+    },
+    "Neptune": {
+        "type": "Ice giant",
+        "diameter": 49244,
+        "mass": "1.024 × 10^26 kg",
+        "gravity": "11.15 m/s²",
+        "escape_velocity": "23.5 km/s",
+        "rotation_period": "16.11 hours",
+        "orbital_period": "164.79 Earth years",
+        "average_temperature": "-200°C",
+        "distance_from_sun": "4.495 billion km",
+        "number_of_moons": 14,
+        "atmosphere": "80% hydrogen, 19% helium, 1% methane",
+        "magnetic_field": "Strong - tilted 47° from rotation axis",
+        "surface_features": "Great Dark Spot, high-speed winds",
+        "interesting_facts": [
+            "Strongest winds in the Solar System",
+            "Last planet in the Solar System",
+            "Has a dynamic atmosphere with storms",
+            "Only planet found by mathematical prediction"
+        ],
+        "nasa_3d_url": "https://eyes.nasa.gov/apps/solar-system/#/neptune"
+    }
+}
