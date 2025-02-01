@@ -22,7 +22,7 @@ To get started with the Solar System Explorer, follow the steps below:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/solar-system-explorer.git
+git clone https://github.com/arrhenius975/Solar_System_Explorer.git
 cd solar-system-explorer
 ```
 
@@ -65,13 +65,7 @@ Once the application is running, you can:
 
 ## Contributing
 
-We welcome contributions to improve the Solar System Explorer! To contribute:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Open a Pull Request
+We welcome contributions to improve the Solar System Explorer! Fell free to contribute and/or suggest improvements or to report for bugs!
 
 ## License
 
