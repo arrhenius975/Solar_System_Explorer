@@ -65,7 +65,7 @@ Once the application is running, you can:
 
 ## Contributing
 
-We welcome contributions to improve the Solar System Explorer! Fell free to contribute and/or suggest improvements or to report for bugs!
+We welcome contributions to improve the Solar System Explorer! Fell free to reach out to contribute and/or suggest improvements or to report for bugs!
 
 ## License
 
